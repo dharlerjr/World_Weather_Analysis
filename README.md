@@ -18,4 +18,7 @@ Next, we selected the following four cities, all located in Southern India:
 3. Narayanpet
 4. Kattivakkam
 
-Finally, using the coordinates for each city, we created the following map, which includes the directions, pop-up markers, and corresponding information boxes. 
+Finally, using the coordinates for each city, we created the following maps, which collectively include the directions, pop-up markers, and corresponding information boxes. 
+
+- [Travel_Map](Vacation_Itinerary/WeatherPy_travel_map.PNG)
+- [Travel_Map Markers](Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
