@@ -19,5 +19,3 @@ Next, we selected the following four cities, all located in Southern India:
 4. Kattivakkam
 
 Finally, using the coordinates for each city, we created the following map, which includes the directions, pop-up markers, and corresponding information boxes. 
-
-## Summary
