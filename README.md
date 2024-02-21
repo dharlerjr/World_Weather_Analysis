@@ -12,7 +12,7 @@ PlanMyTrip is a fictional travel technology company that maintains a website whi
   - Creating scatter plots to compare various features from the weather data, such as Latitude vs. Temperature
   - Computing the correlation coefficient between different pairs of features from the weather data
   - Creating heatmaps using the Google Maps & Places API
-- Creating a heatmap which displays city information based on user input 
+- Creating a heatmap which displays city information based on user input
 
 ### Purpose
 
@@ -40,6 +40,14 @@ Finally, using the coordinates for each city, we created the following map, whic
 ![Travel Map Markers](https://github.com/dharlerjr/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
 
 ## Summary
-All in all, our project was a success. We succeeded in building our dataset, performing our exploratory data analysis, and creating a heatmap to display the user's recommended travel itinerary. Below are a few screenshots displaying further results from our analysis.
 
+All in all, our project was a success. We succeeded in building our dataset, performing our exploratory data analysis, and creating a heatmap to display the user's recommended travel itinerary. Below are a few screenshots displaying various results from our analysis. Please see the weather_data folder for more visualizations, as well as our city dataset.
 
+City Latitude vs. Max Temperature
+![Travel Map](https://github.com/dharlerjr/World_Weather_Analysis/blob/main/weather_data/Fig1.png)
+
+Linear Regression on City Latitude vs. Max Temperature for Cities in the Northern Hemisphere
+![Travel Map](https://github.com/dharlerjr/World_Weather_Analysis/blob/main/weather_data/Fig5.png)
+
+Linear Regression on City Latitude vs. Max Temperature for Cities in the Southern Hemisphere
+![Travel Map](https://github.com/dharlerjr/World_Weather_Analysis/blob/main/weather_data/Fig6.png)
